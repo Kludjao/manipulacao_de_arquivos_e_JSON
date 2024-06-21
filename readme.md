@@ -1,5 +1,5 @@
 
-# 42 Manipulação de Arquivos e JSON em Python
+# Manipulação de Arquivos e JSON em Python
 - Este repositório contém exemplos e práticas de manipulação de arquivos e JSON utilizando Python, com base
 - nos conteúdos aprendidos na Faculdade FIAP. 
   - Este projeto tem como objetivo demonstrar a manipulação de arquivos e dados no formato JSON usando Python.
